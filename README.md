@@ -11,9 +11,10 @@ Hier soll in Zukunft ein unauffällig arbeitendes, preiswertes Open Source Syste
 Der Senior-Partner überwacht mit Hilfe preiswerter Sensoren unauffällig Gewohnheiten der Bewohner (natürlicher unter strikter Einhaltung des Datenschutzes, es wird 
 nichts protokolliert oder nach 
 draußen gegeben) und meldet sich, wenn er gravierende Veränderungen entdeckt, also wenn z.B. die Badtür oder die Kühlschranktür längere Zeit nicht geöffnet / geschlossen
-wird, der Herd zu lange an ist oder nachts das Licht an bleibt, im Winter das Fenster auf bleibt oder auch, wenn der Rauchmelder (extern) Alarm gibt. Auch die das Gerät.
+wird, der Herd zu lange an ist oder nachts das Licht an bleibt, im Winter das Fenster auf bleibt oder auch, wenn der Rauchmelder (extern) Alarm gibt. Auch die das Gerät
+umgebende Raumtemperatur wird ausgewertet.
 Ich könnte mir als Hardware einen Raspberry Pi vorstellen, der auf eine Zusatzplatine mit Sensoren und Schnittstellen gesteckt wird und über WLAN oder auch GSM-Karte 
 kommuniziert.
-Es gibt also jede Menge zu tun: weitere Ideen zur Funktionalität, Konzept, Hardwareentwicklung, Softwareentwicklung,,,,
+Es gibt also jede Menge zu tun: weitere Ideen zur Funktionalität, Konzept, Hardwareentwicklung, Softwareentwicklung...
 
 Ich würde mich riesig freuen, wenn ich hier ein paar Mitstreiter für dieses aus meiner Sicht gesellschaftlich relevante Thema fände.
