@@ -1,1 +1,21 @@
 # Lastenheft Senior-Partner
+# Aufgabe des Senior-Partners
+
+Der Senior Partner soll ein ein unaufdringliches Überwachungssystem sein, welches die Sicherheit allein lebender älterer Menschen
+erhöhen soll. Wenn ungewöhnliche Situationen auftreten, soll eine Liste von Kontaktpersonen darüber informiert werden.
+Diese werden dann versuchen, mit dem Menschen Kontakt aufzunehmen, wenn dies nicht gelingt hinfahren, die Nachbarn informieren oder sonst irgendwie geeignet 
+reagieren.
+
+# Was sind ungewöhnliche Situationen
+
+* die Raumtemperatur steigt signifikant über den Durchschnittswert
+* die Raumtemperatur fällz signifikant über den Durchschnittswert
+* Kühlschranktür wird mind xx Stunden nicht geöffnet /geschlossen
+* Badtür / Klospülung wird mindestens xx Stunden nicht betätigt
+* Ferseher wird nicht mehr ein/ausgeschaltet
+
+
+
+
+
+Wie können wir diese Situationen detektieren ?
